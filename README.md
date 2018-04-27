@@ -1,4 +1,5 @@
 Facial Recognition v1
+Facial Recognition within Images
 
 Clone this repo
 Run npm install
